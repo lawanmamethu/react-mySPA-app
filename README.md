@@ -7,7 +7,7 @@
 
 A modern Single Page Application (SPA) built with React. Features smooth navigation between Home, About, and Contact pages without reloads, global state management, and fully responsive design.
 
-**Completed during Front-End Internship @ Codveda Technologies**
+**Completed during Front-End Internship**
 
 ---
 
@@ -51,7 +51,7 @@ Methuli Lawanma
 
 ## 📄 License 
 
-This project is for educational and portfolio purposes as part of the Front-End Internship at Codveda Technologies. 
+This project is for educational and portfolio purposes as part of the Front-End Internship. 
 
 ---
 
